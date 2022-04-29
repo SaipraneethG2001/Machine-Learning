@@ -1,2 +1,2 @@
 # Machine-Learning
-I am saipraneeth from 3rd year btech IIT goa (Machine learning projects)
+I am saipraneeth from 3rd year btech IIT goa. Some of useful machine learning projects are done here. I did many projects in machine learning. The concepts are Classification,Regression, Clustering algorithms, etc; U can find all this projects in this repository.
